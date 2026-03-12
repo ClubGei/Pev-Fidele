@@ -1,0 +1,577 @@
+﻿YearMonth,Year,Month,Month_num,Region,District,AS,FOSA,Rapport_attendu,Rapport_recu,Rapport_a_temps
+202301,2023,Janvier,1,Kinshasa,Limmété,Kinkole,CS Kinkole,1,1,0
+202301,2023,Janvier,1,Kinshasa,Limmété,Kinsuka,CS Kinsuka,1,1,1
+202301,2023,Janvier,1,Kinshasa,Limmété,Ngaliema,CS Ngaliema,1,1,1
+202301,2023,Janvier,1,Kinshasa,Bandalungwa,Bandal-Selé,CS Bandal,1,1,1
+202301,2023,Janvier,1,Kinshasa,Bandalungwa,Funa,CS Funa,1,1,1
+202301,2023,Janvier,1,Kinshasa,Bandalungwa,Kauka,CS Kauka,1,1,1
+202301,2023,Janvier,1,Haut-Katanga,Lubumbashi,Kampemba,CS Kampemba,1,1,1
+202301,2023,Janvier,1,Haut-Katanga,Lubumbashi,Kenya,CS Kenya,1,1,1
+202301,2023,Janvier,1,Haut-Katanga,Lubumbashi,Rwashi,CS Rwashi,1,1,1
+202301,2023,Janvier,1,Haut-Katanga,Kipushi,Kipushi Centre,CS Kipushi Centre,1,1,0
+202301,2023,Janvier,1,Haut-Katanga,Kipushi,Kasaka,CS Kasaka,1,1,1
+202301,2023,Janvier,1,Haut-Katanga,Kipushi,Shituru,CS Shituru,1,1,0
+202301,2023,Janvier,1,Kasaï Central,Kananga,Kananga Ville,CS Kananga Ville,1,1,1
+202301,2023,Janvier,1,Kasaï Central,Kananga,Ndolo,CS Ndolo,1,1,1
+202301,2023,Janvier,1,Kasaï Central,Kananga,Lupatapata,CS Lupatapata,1,1,0
+202301,2023,Janvier,1,Kasaï Central,Dibaya,Dibaya Centre,CS Dibaya Centre,1,1,1
+202301,2023,Janvier,1,Kasaï Central,Dibaya,Kalamba,CS Kalamba,1,1,1
+202301,2023,Janvier,1,Kasaï Central,Dibaya,Kazumba,CS Kazumba,1,1,1
+202301,2023,Janvier,1,Ituri,Bunia,Bunia Mairie,CS Bunia Mairie,1,1,1
+202301,2023,Janvier,1,Ituri,Bunia,Soya,CS Soya,1,1,1
+202301,2023,Janvier,1,Ituri,Bunia,Lolwa,CS Lolwa,1,1,0
+202301,2023,Janvier,1,Ituri,Mambasa,Mambasa Centre,CS Mambasa Centre,1,1,1
+202301,2023,Janvier,1,Ituri,Mambasa,Bakwali,CS Bakwali,1,1,1
+202301,2023,Janvier,1,Ituri,Mambasa,Bafwanka,CS Bafwanka,1,1,1
+202302,2023,Février,2,Kinshasa,Limmété,Kinkole,CS Kinkole,1,1,1
+202302,2023,Février,2,Kinshasa,Limmété,Kinsuka,CS Kinsuka,1,1,1
+202302,2023,Février,2,Kinshasa,Limmété,Ngaliema,CS Ngaliema,1,1,1
+202302,2023,Février,2,Kinshasa,Bandalungwa,Bandal-Selé,CS Bandal,1,1,1
+202302,2023,Février,2,Kinshasa,Bandalungwa,Funa,CS Funa,1,1,1
+202302,2023,Février,2,Kinshasa,Bandalungwa,Kauka,CS Kauka,1,1,1
+202302,2023,Février,2,Haut-Katanga,Lubumbashi,Kampemba,CS Kampemba,1,1,1
+202302,2023,Février,2,Haut-Katanga,Lubumbashi,Kenya,CS Kenya,1,1,1
+202302,2023,Février,2,Haut-Katanga,Lubumbashi,Rwashi,CS Rwashi,1,1,1
+202302,2023,Février,2,Haut-Katanga,Kipushi,Kipushi Centre,CS Kipushi Centre,1,1,1
+202302,2023,Février,2,Haut-Katanga,Kipushi,Kasaka,CS Kasaka,1,1,1
+202302,2023,Février,2,Haut-Katanga,Kipushi,Shituru,CS Shituru,1,1,1
+202302,2023,Février,2,Kasaï Central,Kananga,Kananga Ville,CS Kananga Ville,1,1,1
+202302,2023,Février,2,Kasaï Central,Kananga,Ndolo,CS Ndolo,1,1,1
+202302,2023,Février,2,Kasaï Central,Kananga,Lupatapata,CS Lupatapata,1,1,1
+202302,2023,Février,2,Kasaï Central,Dibaya,Dibaya Centre,CS Dibaya Centre,1,1,1
+202302,2023,Février,2,Kasaï Central,Dibaya,Kalamba,CS Kalamba,1,1,1
+202302,2023,Février,2,Kasaï Central,Dibaya,Kazumba,CS Kazumba,1,0,0
+202302,2023,Février,2,Ituri,Bunia,Bunia Mairie,CS Bunia Mairie,1,1,1
+202302,2023,Février,2,Ituri,Bunia,Soya,CS Soya,1,1,1
+202302,2023,Février,2,Ituri,Bunia,Lolwa,CS Lolwa,1,1,1
+202302,2023,Février,2,Ituri,Mambasa,Mambasa Centre,CS Mambasa Centre,1,1,0
+202302,2023,Février,2,Ituri,Mambasa,Bakwali,CS Bakwali,1,1,1
+202302,2023,Février,2,Ituri,Mambasa,Bafwanka,CS Bafwanka,1,1,1
+202303,2023,Mars,3,Kinshasa,Limmété,Kinkole,CS Kinkole,1,1,1
+202303,2023,Mars,3,Kinshasa,Limmété,Kinsuka,CS Kinsuka,1,1,1
+202303,2023,Mars,3,Kinshasa,Limmété,Ngaliema,CS Ngaliema,1,1,1
+202303,2023,Mars,3,Kinshasa,Bandalungwa,Bandal-Selé,CS Bandal,1,1,1
+202303,2023,Mars,3,Kinshasa,Bandalungwa,Funa,CS Funa,1,1,1
+202303,2023,Mars,3,Kinshasa,Bandalungwa,Kauka,CS Kauka,1,1,1
+202303,2023,Mars,3,Haut-Katanga,Lubumbashi,Kampemba,CS Kampemba,1,1,1
+202303,2023,Mars,3,Haut-Katanga,Lubumbashi,Kenya,CS Kenya,1,1,0
+202303,2023,Mars,3,Haut-Katanga,Lubumbashi,Rwashi,CS Rwashi,1,1,1
+202303,2023,Mars,3,Haut-Katanga,Kipushi,Kipushi Centre,CS Kipushi Centre,1,1,1
+202303,2023,Mars,3,Haut-Katanga,Kipushi,Kasaka,CS Kasaka,1,1,1
+202303,2023,Mars,3,Haut-Katanga,Kipushi,Shituru,CS Shituru,1,1,1
+202303,2023,Mars,3,Kasaï Central,Kananga,Kananga Ville,CS Kananga Ville,1,1,1
+202303,2023,Mars,3,Kasaï Central,Kananga,Ndolo,CS Ndolo,1,1,1
+202303,2023,Mars,3,Kasaï Central,Kananga,Lupatapata,CS Lupatapata,1,1,0
+202303,2023,Mars,3,Kasaï Central,Dibaya,Dibaya Centre,CS Dibaya Centre,1,1,1
+202303,2023,Mars,3,Kasaï Central,Dibaya,Kalamba,CS Kalamba,1,1,1
+202303,2023,Mars,3,Kasaï Central,Dibaya,Kazumba,CS Kazumba,1,1,1
+202303,2023,Mars,3,Ituri,Bunia,Bunia Mairie,CS Bunia Mairie,1,1,1
+202303,2023,Mars,3,Ituri,Bunia,Soya,CS Soya,1,1,1
+202303,2023,Mars,3,Ituri,Bunia,Lolwa,CS Lolwa,1,1,1
+202303,2023,Mars,3,Ituri,Mambasa,Mambasa Centre,CS Mambasa Centre,1,1,1
+202303,2023,Mars,3,Ituri,Mambasa,Bakwali,CS Bakwali,1,1,1
+202303,2023,Mars,3,Ituri,Mambasa,Bafwanka,CS Bafwanka,1,1,0
+202304,2023,Avril,4,Kinshasa,Limmété,Kinkole,CS Kinkole,1,1,1
+202304,2023,Avril,4,Kinshasa,Limmété,Kinsuka,CS Kinsuka,1,1,1
+202304,2023,Avril,4,Kinshasa,Limmété,Ngaliema,CS Ngaliema,1,1,1
+202304,2023,Avril,4,Kinshasa,Bandalungwa,Bandal-Selé,CS Bandal,1,1,1
+202304,2023,Avril,4,Kinshasa,Bandalungwa,Funa,CS Funa,1,1,1
+202304,2023,Avril,4,Kinshasa,Bandalungwa,Kauka,CS Kauka,1,1,1
+202304,2023,Avril,4,Haut-Katanga,Lubumbashi,Kampemba,CS Kampemba,1,1,1
+202304,2023,Avril,4,Haut-Katanga,Lubumbashi,Kenya,CS Kenya,1,1,1
+202304,2023,Avril,4,Haut-Katanga,Lubumbashi,Rwashi,CS Rwashi,1,1,1
+202304,2023,Avril,4,Haut-Katanga,Kipushi,Kipushi Centre,CS Kipushi Centre,1,1,1
+202304,2023,Avril,4,Haut-Katanga,Kipushi,Kasaka,CS Kasaka,1,1,1
+202304,2023,Avril,4,Haut-Katanga,Kipushi,Shituru,CS Shituru,1,1,1
+202304,2023,Avril,4,Kasaï Central,Kananga,Kananga Ville,CS Kananga Ville,1,1,1
+202304,2023,Avril,4,Kasaï Central,Kananga,Ndolo,CS Ndolo,1,1,1
+202304,2023,Avril,4,Kasaï Central,Kananga,Lupatapata,CS Lupatapata,1,1,1
+202304,2023,Avril,4,Kasaï Central,Dibaya,Dibaya Centre,CS Dibaya Centre,1,1,1
+202304,2023,Avril,4,Kasaï Central,Dibaya,Kalamba,CS Kalamba,1,1,1
+202304,2023,Avril,4,Kasaï Central,Dibaya,Kazumba,CS Kazumba,1,1,1
+202304,2023,Avril,4,Ituri,Bunia,Bunia Mairie,CS Bunia Mairie,1,1,1
+202304,2023,Avril,4,Ituri,Bunia,Soya,CS Soya,1,1,1
+202304,2023,Avril,4,Ituri,Bunia,Lolwa,CS Lolwa,1,1,1
+202304,2023,Avril,4,Ituri,Mambasa,Mambasa Centre,CS Mambasa Centre,1,1,1
+202304,2023,Avril,4,Ituri,Mambasa,Bakwali,CS Bakwali,1,0,0
+202304,2023,Avril,4,Ituri,Mambasa,Bafwanka,CS Bafwanka,1,1,1
+202305,2023,Mai,5,Kinshasa,Limmété,Kinkole,CS Kinkole,1,1,1
+202305,2023,Mai,5,Kinshasa,Limmété,Kinsuka,CS Kinsuka,1,1,1
+202305,2023,Mai,5,Kinshasa,Limmété,Ngaliema,CS Ngaliema,1,1,1
+202305,2023,Mai,5,Kinshasa,Bandalungwa,Bandal-Selé,CS Bandal,1,1,1
+202305,2023,Mai,5,Kinshasa,Bandalungwa,Funa,CS Funa,1,1,1
+202305,2023,Mai,5,Kinshasa,Bandalungwa,Kauka,CS Kauka,1,1,1
+202305,2023,Mai,5,Haut-Katanga,Lubumbashi,Kampemba,CS Kampemba,1,1,1
+202305,2023,Mai,5,Haut-Katanga,Lubumbashi,Kenya,CS Kenya,1,0,0
+202305,2023,Mai,5,Haut-Katanga,Lubumbashi,Rwashi,CS Rwashi,1,1,1
+202305,2023,Mai,5,Haut-Katanga,Kipushi,Kipushi Centre,CS Kipushi Centre,1,1,1
+202305,2023,Mai,5,Haut-Katanga,Kipushi,Kasaka,CS Kasaka,1,1,1
+202305,2023,Mai,5,Haut-Katanga,Kipushi,Shituru,CS Shituru,1,1,1
+202305,2023,Mai,5,Kasaï Central,Kananga,Kananga Ville,CS Kananga Ville,1,1,1
+202305,2023,Mai,5,Kasaï Central,Kananga,Ndolo,CS Ndolo,1,1,1
+202305,2023,Mai,5,Kasaï Central,Kananga,Lupatapata,CS Lupatapata,1,1,1
+202305,2023,Mai,5,Kasaï Central,Dibaya,Dibaya Centre,CS Dibaya Centre,1,1,1
+202305,2023,Mai,5,Kasaï Central,Dibaya,Kalamba,CS Kalamba,1,1,1
+202305,2023,Mai,5,Kasaï Central,Dibaya,Kazumba,CS Kazumba,1,1,1
+202305,2023,Mai,5,Ituri,Bunia,Bunia Mairie,CS Bunia Mairie,1,1,0
+202305,2023,Mai,5,Ituri,Bunia,Soya,CS Soya,1,1,1
+202305,2023,Mai,5,Ituri,Bunia,Lolwa,CS Lolwa,1,1,1
+202305,2023,Mai,5,Ituri,Mambasa,Mambasa Centre,CS Mambasa Centre,1,1,1
+202305,2023,Mai,5,Ituri,Mambasa,Bakwali,CS Bakwali,1,1,1
+202305,2023,Mai,5,Ituri,Mambasa,Bafwanka,CS Bafwanka,1,1,1
+202306,2023,Juin,6,Kinshasa,Limmété,Kinkole,CS Kinkole,1,1,0
+202306,2023,Juin,6,Kinshasa,Limmété,Kinsuka,CS Kinsuka,1,1,1
+202306,2023,Juin,6,Kinshasa,Limmété,Ngaliema,CS Ngaliema,1,1,1
+202306,2023,Juin,6,Kinshasa,Bandalungwa,Bandal-Selé,CS Bandal,1,1,1
+202306,2023,Juin,6,Kinshasa,Bandalungwa,Funa,CS Funa,1,1,1
+202306,2023,Juin,6,Kinshasa,Bandalungwa,Kauka,CS Kauka,1,1,1
+202306,2023,Juin,6,Haut-Katanga,Lubumbashi,Kampemba,CS Kampemba,1,1,0
+202306,2023,Juin,6,Haut-Katanga,Lubumbashi,Kenya,CS Kenya,1,1,1
+202306,2023,Juin,6,Haut-Katanga,Lubumbashi,Rwashi,CS Rwashi,1,1,1
+202306,2023,Juin,6,Haut-Katanga,Kipushi,Kipushi Centre,CS Kipushi Centre,1,0,0
+202306,2023,Juin,6,Haut-Katanga,Kipushi,Kasaka,CS Kasaka,1,1,1
+202306,2023,Juin,6,Haut-Katanga,Kipushi,Shituru,CS Shituru,1,1,1
+202306,2023,Juin,6,Kasaï Central,Kananga,Kananga Ville,CS Kananga Ville,1,0,0
+202306,2023,Juin,6,Kasaï Central,Kananga,Ndolo,CS Ndolo,1,1,1
+202306,2023,Juin,6,Kasaï Central,Kananga,Lupatapata,CS Lupatapata,1,1,1
+202306,2023,Juin,6,Kasaï Central,Dibaya,Dibaya Centre,CS Dibaya Centre,1,1,1
+202306,2023,Juin,6,Kasaï Central,Dibaya,Kalamba,CS Kalamba,1,1,1
+202306,2023,Juin,6,Kasaï Central,Dibaya,Kazumba,CS Kazumba,1,1,1
+202306,2023,Juin,6,Ituri,Bunia,Bunia Mairie,CS Bunia Mairie,1,1,1
+202306,2023,Juin,6,Ituri,Bunia,Soya,CS Soya,1,1,1
+202306,2023,Juin,6,Ituri,Bunia,Lolwa,CS Lolwa,1,1,1
+202306,2023,Juin,6,Ituri,Mambasa,Mambasa Centre,CS Mambasa Centre,1,1,1
+202306,2023,Juin,6,Ituri,Mambasa,Bakwali,CS Bakwali,1,1,1
+202306,2023,Juin,6,Ituri,Mambasa,Bafwanka,CS Bafwanka,1,1,1
+202307,2023,Juillet,7,Kinshasa,Limmété,Kinkole,CS Kinkole,1,1,1
+202307,2023,Juillet,7,Kinshasa,Limmété,Kinsuka,CS Kinsuka,1,1,1
+202307,2023,Juillet,7,Kinshasa,Limmété,Ngaliema,CS Ngaliema,1,1,1
+202307,2023,Juillet,7,Kinshasa,Bandalungwa,Bandal-Selé,CS Bandal,1,1,1
+202307,2023,Juillet,7,Kinshasa,Bandalungwa,Funa,CS Funa,1,1,1
+202307,2023,Juillet,7,Kinshasa,Bandalungwa,Kauka,CS Kauka,1,1,1
+202307,2023,Juillet,7,Haut-Katanga,Lubumbashi,Kampemba,CS Kampemba,1,1,1
+202307,2023,Juillet,7,Haut-Katanga,Lubumbashi,Kenya,CS Kenya,1,1,1
+202307,2023,Juillet,7,Haut-Katanga,Lubumbashi,Rwashi,CS Rwashi,1,1,1
+202307,2023,Juillet,7,Haut-Katanga,Kipushi,Kipushi Centre,CS Kipushi Centre,1,1,1
+202307,2023,Juillet,7,Haut-Katanga,Kipushi,Kasaka,CS Kasaka,1,1,0
+202307,2023,Juillet,7,Haut-Katanga,Kipushi,Shituru,CS Shituru,1,1,1
+202307,2023,Juillet,7,Kasaï Central,Kananga,Kananga Ville,CS Kananga Ville,1,1,0
+202307,2023,Juillet,7,Kasaï Central,Kananga,Ndolo,CS Ndolo,1,1,1
+202307,2023,Juillet,7,Kasaï Central,Kananga,Lupatapata,CS Lupatapata,1,1,1
+202307,2023,Juillet,7,Kasaï Central,Dibaya,Dibaya Centre,CS Dibaya Centre,1,1,1
+202307,2023,Juillet,7,Kasaï Central,Dibaya,Kalamba,CS Kalamba,1,1,1
+202307,2023,Juillet,7,Kasaï Central,Dibaya,Kazumba,CS Kazumba,1,1,0
+202307,2023,Juillet,7,Ituri,Bunia,Bunia Mairie,CS Bunia Mairie,1,1,1
+202307,2023,Juillet,7,Ituri,Bunia,Soya,CS Soya,1,1,1
+202307,2023,Juillet,7,Ituri,Bunia,Lolwa,CS Lolwa,1,1,1
+202307,2023,Juillet,7,Ituri,Mambasa,Mambasa Centre,CS Mambasa Centre,1,1,1
+202307,2023,Juillet,7,Ituri,Mambasa,Bakwali,CS Bakwali,1,1,1
+202307,2023,Juillet,7,Ituri,Mambasa,Bafwanka,CS Bafwanka,1,1,1
+202308,2023,Août,8,Kinshasa,Limmété,Kinkole,CS Kinkole,1,1,1
+202308,2023,Août,8,Kinshasa,Limmété,Kinsuka,CS Kinsuka,1,1,1
+202308,2023,Août,8,Kinshasa,Limmété,Ngaliema,CS Ngaliema,1,1,0
+202308,2023,Août,8,Kinshasa,Bandalungwa,Bandal-Selé,CS Bandal,1,1,1
+202308,2023,Août,8,Kinshasa,Bandalungwa,Funa,CS Funa,1,1,0
+202308,2023,Août,8,Kinshasa,Bandalungwa,Kauka,CS Kauka,1,1,1
+202308,2023,Août,8,Haut-Katanga,Lubumbashi,Kampemba,CS Kampemba,1,1,1
+202308,2023,Août,8,Haut-Katanga,Lubumbashi,Kenya,CS Kenya,1,1,0
+202308,2023,Août,8,Haut-Katanga,Lubumbashi,Rwashi,CS Rwashi,1,1,0
+202308,2023,Août,8,Haut-Katanga,Kipushi,Kipushi Centre,CS Kipushi Centre,1,1,0
+202308,2023,Août,8,Haut-Katanga,Kipushi,Kasaka,CS Kasaka,1,0,0
+202308,2023,Août,8,Haut-Katanga,Kipushi,Shituru,CS Shituru,1,1,1
+202308,2023,Août,8,Kasaï Central,Kananga,Kananga Ville,CS Kananga Ville,1,1,1
+202308,2023,Août,8,Kasaï Central,Kananga,Ndolo,CS Ndolo,1,1,1
+202308,2023,Août,8,Kasaï Central,Kananga,Lupatapata,CS Lupatapata,1,1,1
+202308,2023,Août,8,Kasaï Central,Dibaya,Dibaya Centre,CS Dibaya Centre,1,0,0
+202308,2023,Août,8,Kasaï Central,Dibaya,Kalamba,CS Kalamba,1,1,1
+202308,2023,Août,8,Kasaï Central,Dibaya,Kazumba,CS Kazumba,1,1,1
+202308,2023,Août,8,Ituri,Bunia,Bunia Mairie,CS Bunia Mairie,1,1,1
+202308,2023,Août,8,Ituri,Bunia,Soya,CS Soya,1,1,1
+202308,2023,Août,8,Ituri,Bunia,Lolwa,CS Lolwa,1,1,1
+202308,2023,Août,8,Ituri,Mambasa,Mambasa Centre,CS Mambasa Centre,1,1,0
+202308,2023,Août,8,Ituri,Mambasa,Bakwali,CS Bakwali,1,1,1
+202308,2023,Août,8,Ituri,Mambasa,Bafwanka,CS Bafwanka,1,1,1
+202309,2023,Septembre,9,Kinshasa,Limmété,Kinkole,CS Kinkole,1,0,0
+202309,2023,Septembre,9,Kinshasa,Limmété,Kinsuka,CS Kinsuka,1,1,1
+202309,2023,Septembre,9,Kinshasa,Limmété,Ngaliema,CS Ngaliema,1,1,1
+202309,2023,Septembre,9,Kinshasa,Bandalungwa,Bandal-Selé,CS Bandal,1,1,0
+202309,2023,Septembre,9,Kinshasa,Bandalungwa,Funa,CS Funa,1,1,1
+202309,2023,Septembre,9,Kinshasa,Bandalungwa,Kauka,CS Kauka,1,1,0
+202309,2023,Septembre,9,Haut-Katanga,Lubumbashi,Kampemba,CS Kampemba,1,1,1
+202309,2023,Septembre,9,Haut-Katanga,Lubumbashi,Kenya,CS Kenya,1,1,1
+202309,2023,Septembre,9,Haut-Katanga,Lubumbashi,Rwashi,CS Rwashi,1,1,0
+202309,2023,Septembre,9,Haut-Katanga,Kipushi,Kipushi Centre,CS Kipushi Centre,1,1,1
+202309,2023,Septembre,9,Haut-Katanga,Kipushi,Kasaka,CS Kasaka,1,1,1
+202309,2023,Septembre,9,Haut-Katanga,Kipushi,Shituru,CS Shituru,1,1,1
+202309,2023,Septembre,9,Kasaï Central,Kananga,Kananga Ville,CS Kananga Ville,1,1,1
+202309,2023,Septembre,9,Kasaï Central,Kananga,Ndolo,CS Ndolo,1,1,1
+202309,2023,Septembre,9,Kasaï Central,Kananga,Lupatapata,CS Lupatapata,1,1,1
+202309,2023,Septembre,9,Kasaï Central,Dibaya,Dibaya Centre,CS Dibaya Centre,1,1,1
+202309,2023,Septembre,9,Kasaï Central,Dibaya,Kalamba,CS Kalamba,1,1,1
+202309,2023,Septembre,9,Kasaï Central,Dibaya,Kazumba,CS Kazumba,1,1,1
+202309,2023,Septembre,9,Ituri,Bunia,Bunia Mairie,CS Bunia Mairie,1,1,1
+202309,2023,Septembre,9,Ituri,Bunia,Soya,CS Soya,1,1,1
+202309,2023,Septembre,9,Ituri,Bunia,Lolwa,CS Lolwa,1,1,0
+202309,2023,Septembre,9,Ituri,Mambasa,Mambasa Centre,CS Mambasa Centre,1,1,1
+202309,2023,Septembre,9,Ituri,Mambasa,Bakwali,CS Bakwali,1,1,1
+202309,2023,Septembre,9,Ituri,Mambasa,Bafwanka,CS Bafwanka,1,1,1
+202310,2023,Octobre,10,Kinshasa,Limmété,Kinkole,CS Kinkole,1,1,1
+202310,2023,Octobre,10,Kinshasa,Limmété,Kinsuka,CS Kinsuka,1,1,1
+202310,2023,Octobre,10,Kinshasa,Limmété,Ngaliema,CS Ngaliema,1,1,1
+202310,2023,Octobre,10,Kinshasa,Bandalungwa,Bandal-Selé,CS Bandal,1,1,1
+202310,2023,Octobre,10,Kinshasa,Bandalungwa,Funa,CS Funa,1,1,1
+202310,2023,Octobre,10,Kinshasa,Bandalungwa,Kauka,CS Kauka,1,1,1
+202310,2023,Octobre,10,Haut-Katanga,Lubumbashi,Kampemba,CS Kampemba,1,1,1
+202310,2023,Octobre,10,Haut-Katanga,Lubumbashi,Kenya,CS Kenya,1,1,1
+202310,2023,Octobre,10,Haut-Katanga,Lubumbashi,Rwashi,CS Rwashi,1,1,1
+202310,2023,Octobre,10,Haut-Katanga,Kipushi,Kipushi Centre,CS Kipushi Centre,1,1,1
+202310,2023,Octobre,10,Haut-Katanga,Kipushi,Kasaka,CS Kasaka,1,1,1
+202310,2023,Octobre,10,Haut-Katanga,Kipushi,Shituru,CS Shituru,1,1,1
+202310,2023,Octobre,10,Kasaï Central,Kananga,Kananga Ville,CS Kananga Ville,1,1,1
+202310,2023,Octobre,10,Kasaï Central,Kananga,Ndolo,CS Ndolo,1,1,1
+202310,2023,Octobre,10,Kasaï Central,Kananga,Lupatapata,CS Lupatapata,1,1,1
+202310,2023,Octobre,10,Kasaï Central,Dibaya,Dibaya Centre,CS Dibaya Centre,1,0,0
+202310,2023,Octobre,10,Kasaï Central,Dibaya,Kalamba,CS Kalamba,1,1,0
+202310,2023,Octobre,10,Kasaï Central,Dibaya,Kazumba,CS Kazumba,1,1,1
+202310,2023,Octobre,10,Ituri,Bunia,Bunia Mairie,CS Bunia Mairie,1,1,1
+202310,2023,Octobre,10,Ituri,Bunia,Soya,CS Soya,1,1,1
+202310,2023,Octobre,10,Ituri,Bunia,Lolwa,CS Lolwa,1,1,1
+202310,2023,Octobre,10,Ituri,Mambasa,Mambasa Centre,CS Mambasa Centre,1,1,1
+202310,2023,Octobre,10,Ituri,Mambasa,Bakwali,CS Bakwali,1,1,1
+202310,2023,Octobre,10,Ituri,Mambasa,Bafwanka,CS Bafwanka,1,1,1
+202311,2023,Novembre,11,Kinshasa,Limmété,Kinkole,CS Kinkole,1,1,1
+202311,2023,Novembre,11,Kinshasa,Limmété,Kinsuka,CS Kinsuka,1,1,1
+202311,2023,Novembre,11,Kinshasa,Limmété,Ngaliema,CS Ngaliema,1,1,1
+202311,2023,Novembre,11,Kinshasa,Bandalungwa,Bandal-Selé,CS Bandal,1,1,1
+202311,2023,Novembre,11,Kinshasa,Bandalungwa,Funa,CS Funa,1,1,1
+202311,2023,Novembre,11,Kinshasa,Bandalungwa,Kauka,CS Kauka,1,1,1
+202311,2023,Novembre,11,Haut-Katanga,Lubumbashi,Kampemba,CS Kampemba,1,1,1
+202311,2023,Novembre,11,Haut-Katanga,Lubumbashi,Kenya,CS Kenya,1,1,1
+202311,2023,Novembre,11,Haut-Katanga,Lubumbashi,Rwashi,CS Rwashi,1,1,0
+202311,2023,Novembre,11,Haut-Katanga,Kipushi,Kipushi Centre,CS Kipushi Centre,1,0,0
+202311,2023,Novembre,11,Haut-Katanga,Kipushi,Kasaka,CS Kasaka,1,1,1
+202311,2023,Novembre,11,Haut-Katanga,Kipushi,Shituru,CS Shituru,1,1,1
+202311,2023,Novembre,11,Kasaï Central,Kananga,Kananga Ville,CS Kananga Ville,1,1,1
+202311,2023,Novembre,11,Kasaï Central,Kananga,Ndolo,CS Ndolo,1,1,1
+202311,2023,Novembre,11,Kasaï Central,Kananga,Lupatapata,CS Lupatapata,1,1,1
+202311,2023,Novembre,11,Kasaï Central,Dibaya,Dibaya Centre,CS Dibaya Centre,1,1,1
+202311,2023,Novembre,11,Kasaï Central,Dibaya,Kalamba,CS Kalamba,1,1,1
+202311,2023,Novembre,11,Kasaï Central,Dibaya,Kazumba,CS Kazumba,1,1,1
+202311,2023,Novembre,11,Ituri,Bunia,Bunia Mairie,CS Bunia Mairie,1,1,1
+202311,2023,Novembre,11,Ituri,Bunia,Soya,CS Soya,1,1,1
+202311,2023,Novembre,11,Ituri,Bunia,Lolwa,CS Lolwa,1,1,1
+202311,2023,Novembre,11,Ituri,Mambasa,Mambasa Centre,CS Mambasa Centre,1,1,1
+202311,2023,Novembre,11,Ituri,Mambasa,Bakwali,CS Bakwali,1,1,1
+202311,2023,Novembre,11,Ituri,Mambasa,Bafwanka,CS Bafwanka,1,1,1
+202312,2023,Décembre,12,Kinshasa,Limmété,Kinkole,CS Kinkole,1,1,1
+202312,2023,Décembre,12,Kinshasa,Limmété,Kinsuka,CS Kinsuka,1,1,1
+202312,2023,Décembre,12,Kinshasa,Limmété,Ngaliema,CS Ngaliema,1,1,1
+202312,2023,Décembre,12,Kinshasa,Bandalungwa,Bandal-Selé,CS Bandal,1,1,1
+202312,2023,Décembre,12,Kinshasa,Bandalungwa,Funa,CS Funa,1,1,1
+202312,2023,Décembre,12,Kinshasa,Bandalungwa,Kauka,CS Kauka,1,1,0
+202312,2023,Décembre,12,Haut-Katanga,Lubumbashi,Kampemba,CS Kampemba,1,1,1
+202312,2023,Décembre,12,Haut-Katanga,Lubumbashi,Kenya,CS Kenya,1,1,1
+202312,2023,Décembre,12,Haut-Katanga,Lubumbashi,Rwashi,CS Rwashi,1,1,1
+202312,2023,Décembre,12,Haut-Katanga,Kipushi,Kipushi Centre,CS Kipushi Centre,1,1,1
+202312,2023,Décembre,12,Haut-Katanga,Kipushi,Kasaka,CS Kasaka,1,1,1
+202312,2023,Décembre,12,Haut-Katanga,Kipushi,Shituru,CS Shituru,1,1,1
+202312,2023,Décembre,12,Kasaï Central,Kananga,Kananga Ville,CS Kananga Ville,1,1,1
+202312,2023,Décembre,12,Kasaï Central,Kananga,Ndolo,CS Ndolo,1,1,1
+202312,2023,Décembre,12,Kasaï Central,Kananga,Lupatapata,CS Lupatapata,1,1,1
+202312,2023,Décembre,12,Kasaï Central,Dibaya,Dibaya Centre,CS Dibaya Centre,1,1,1
+202312,2023,Décembre,12,Kasaï Central,Dibaya,Kalamba,CS Kalamba,1,1,1
+202312,2023,Décembre,12,Kasaï Central,Dibaya,Kazumba,CS Kazumba,1,1,1
+202312,2023,Décembre,12,Ituri,Bunia,Bunia Mairie,CS Bunia Mairie,1,1,1
+202312,2023,Décembre,12,Ituri,Bunia,Soya,CS Soya,1,1,1
+202312,2023,Décembre,12,Ituri,Bunia,Lolwa,CS Lolwa,1,1,1
+202312,2023,Décembre,12,Ituri,Mambasa,Mambasa Centre,CS Mambasa Centre,1,1,1
+202312,2023,Décembre,12,Ituri,Mambasa,Bakwali,CS Bakwali,1,0,0
+202312,2023,Décembre,12,Ituri,Mambasa,Bafwanka,CS Bafwanka,1,1,1
+202401,2024,Janvier,1,Kinshasa,Limmété,Kinkole,CS Kinkole,1,1,1
+202401,2024,Janvier,1,Kinshasa,Limmété,Kinsuka,CS Kinsuka,1,1,1
+202401,2024,Janvier,1,Kinshasa,Limmété,Ngaliema,CS Ngaliema,1,1,1
+202401,2024,Janvier,1,Kinshasa,Bandalungwa,Bandal-Selé,CS Bandal,1,1,1
+202401,2024,Janvier,1,Kinshasa,Bandalungwa,Funa,CS Funa,1,1,0
+202401,2024,Janvier,1,Kinshasa,Bandalungwa,Kauka,CS Kauka,1,1,1
+202401,2024,Janvier,1,Haut-Katanga,Lubumbashi,Kampemba,CS Kampemba,1,1,1
+202401,2024,Janvier,1,Haut-Katanga,Lubumbashi,Kenya,CS Kenya,1,1,1
+202401,2024,Janvier,1,Haut-Katanga,Lubumbashi,Rwashi,CS Rwashi,1,1,1
+202401,2024,Janvier,1,Haut-Katanga,Kipushi,Kipushi Centre,CS Kipushi Centre,1,1,1
+202401,2024,Janvier,1,Haut-Katanga,Kipushi,Kasaka,CS Kasaka,1,1,1
+202401,2024,Janvier,1,Haut-Katanga,Kipushi,Shituru,CS Shituru,1,1,1
+202401,2024,Janvier,1,Kasaï Central,Kananga,Kananga Ville,CS Kananga Ville,1,1,1
+202401,2024,Janvier,1,Kasaï Central,Kananga,Ndolo,CS Ndolo,1,1,1
+202401,2024,Janvier,1,Kasaï Central,Kananga,Lupatapata,CS Lupatapata,1,1,1
+202401,2024,Janvier,1,Kasaï Central,Dibaya,Dibaya Centre,CS Dibaya Centre,1,1,1
+202401,2024,Janvier,1,Kasaï Central,Dibaya,Kalamba,CS Kalamba,1,1,1
+202401,2024,Janvier,1,Kasaï Central,Dibaya,Kazumba,CS Kazumba,1,1,1
+202401,2024,Janvier,1,Ituri,Bunia,Bunia Mairie,CS Bunia Mairie,1,1,1
+202401,2024,Janvier,1,Ituri,Bunia,Soya,CS Soya,1,1,1
+202401,2024,Janvier,1,Ituri,Bunia,Lolwa,CS Lolwa,1,1,1
+202401,2024,Janvier,1,Ituri,Mambasa,Mambasa Centre,CS Mambasa Centre,1,1,1
+202401,2024,Janvier,1,Ituri,Mambasa,Bakwali,CS Bakwali,1,1,1
+202401,2024,Janvier,1,Ituri,Mambasa,Bafwanka,CS Bafwanka,1,1,1
+202402,2024,Février,2,Kinshasa,Limmété,Kinkole,CS Kinkole,1,1,1
+202402,2024,Février,2,Kinshasa,Limmété,Kinsuka,CS Kinsuka,1,1,1
+202402,2024,Février,2,Kinshasa,Limmété,Ngaliema,CS Ngaliema,1,1,1
+202402,2024,Février,2,Kinshasa,Bandalungwa,Bandal-Selé,CS Bandal,1,0,0
+202402,2024,Février,2,Kinshasa,Bandalungwa,Funa,CS Funa,1,1,1
+202402,2024,Février,2,Kinshasa,Bandalungwa,Kauka,CS Kauka,1,1,1
+202402,2024,Février,2,Haut-Katanga,Lubumbashi,Kampemba,CS Kampemba,1,1,1
+202402,2024,Février,2,Haut-Katanga,Lubumbashi,Kenya,CS Kenya,1,1,1
+202402,2024,Février,2,Haut-Katanga,Lubumbashi,Rwashi,CS Rwashi,1,1,1
+202402,2024,Février,2,Haut-Katanga,Kipushi,Kipushi Centre,CS Kipushi Centre,1,1,1
+202402,2024,Février,2,Haut-Katanga,Kipushi,Kasaka,CS Kasaka,1,1,1
+202402,2024,Février,2,Haut-Katanga,Kipushi,Shituru,CS Shituru,1,1,1
+202402,2024,Février,2,Kasaï Central,Kananga,Kananga Ville,CS Kananga Ville,1,1,1
+202402,2024,Février,2,Kasaï Central,Kananga,Ndolo,CS Ndolo,1,1,1
+202402,2024,Février,2,Kasaï Central,Kananga,Lupatapata,CS Lupatapata,1,1,1
+202402,2024,Février,2,Kasaï Central,Dibaya,Dibaya Centre,CS Dibaya Centre,1,1,1
+202402,2024,Février,2,Kasaï Central,Dibaya,Kalamba,CS Kalamba,1,1,1
+202402,2024,Février,2,Kasaï Central,Dibaya,Kazumba,CS Kazumba,1,1,1
+202402,2024,Février,2,Ituri,Bunia,Bunia Mairie,CS Bunia Mairie,1,1,1
+202402,2024,Février,2,Ituri,Bunia,Soya,CS Soya,1,1,1
+202402,2024,Février,2,Ituri,Bunia,Lolwa,CS Lolwa,1,1,0
+202402,2024,Février,2,Ituri,Mambasa,Mambasa Centre,CS Mambasa Centre,1,1,1
+202402,2024,Février,2,Ituri,Mambasa,Bakwali,CS Bakwali,1,1,1
+202402,2024,Février,2,Ituri,Mambasa,Bafwanka,CS Bafwanka,1,1,1
+202403,2024,Mars,3,Kinshasa,Limmété,Kinkole,CS Kinkole,1,1,1
+202403,2024,Mars,3,Kinshasa,Limmété,Kinsuka,CS Kinsuka,1,1,1
+202403,2024,Mars,3,Kinshasa,Limmété,Ngaliema,CS Ngaliema,1,1,1
+202403,2024,Mars,3,Kinshasa,Bandalungwa,Bandal-Selé,CS Bandal,1,1,1
+202403,2024,Mars,3,Kinshasa,Bandalungwa,Funa,CS Funa,1,1,1
+202403,2024,Mars,3,Kinshasa,Bandalungwa,Kauka,CS Kauka,1,1,1
+202403,2024,Mars,3,Haut-Katanga,Lubumbashi,Kampemba,CS Kampemba,1,1,1
+202403,2024,Mars,3,Haut-Katanga,Lubumbashi,Kenya,CS Kenya,1,1,1
+202403,2024,Mars,3,Haut-Katanga,Lubumbashi,Rwashi,CS Rwashi,1,0,0
+202403,2024,Mars,3,Haut-Katanga,Kipushi,Kipushi Centre,CS Kipushi Centre,1,1,1
+202403,2024,Mars,3,Haut-Katanga,Kipushi,Kasaka,CS Kasaka,1,1,1
+202403,2024,Mars,3,Haut-Katanga,Kipushi,Shituru,CS Shituru,1,1,1
+202403,2024,Mars,3,Kasaï Central,Kananga,Kananga Ville,CS Kananga Ville,1,1,1
+202403,2024,Mars,3,Kasaï Central,Kananga,Ndolo,CS Ndolo,1,1,1
+202403,2024,Mars,3,Kasaï Central,Kananga,Lupatapata,CS Lupatapata,1,1,1
+202403,2024,Mars,3,Kasaï Central,Dibaya,Dibaya Centre,CS Dibaya Centre,1,1,1
+202403,2024,Mars,3,Kasaï Central,Dibaya,Kalamba,CS Kalamba,1,1,1
+202403,2024,Mars,3,Kasaï Central,Dibaya,Kazumba,CS Kazumba,1,1,1
+202403,2024,Mars,3,Ituri,Bunia,Bunia Mairie,CS Bunia Mairie,1,1,0
+202403,2024,Mars,3,Ituri,Bunia,Soya,CS Soya,1,1,1
+202403,2024,Mars,3,Ituri,Bunia,Lolwa,CS Lolwa,1,1,1
+202403,2024,Mars,3,Ituri,Mambasa,Mambasa Centre,CS Mambasa Centre,1,1,1
+202403,2024,Mars,3,Ituri,Mambasa,Bakwali,CS Bakwali,1,1,1
+202403,2024,Mars,3,Ituri,Mambasa,Bafwanka,CS Bafwanka,1,1,1
+202404,2024,Avril,4,Kinshasa,Limmété,Kinkole,CS Kinkole,1,1,1
+202404,2024,Avril,4,Kinshasa,Limmété,Kinsuka,CS Kinsuka,1,1,1
+202404,2024,Avril,4,Kinshasa,Limmété,Ngaliema,CS Ngaliema,1,1,1
+202404,2024,Avril,4,Kinshasa,Bandalungwa,Bandal-Selé,CS Bandal,1,1,1
+202404,2024,Avril,4,Kinshasa,Bandalungwa,Funa,CS Funa,1,1,1
+202404,2024,Avril,4,Kinshasa,Bandalungwa,Kauka,CS Kauka,1,1,1
+202404,2024,Avril,4,Haut-Katanga,Lubumbashi,Kampemba,CS Kampemba,1,1,1
+202404,2024,Avril,4,Haut-Katanga,Lubumbashi,Kenya,CS Kenya,1,1,1
+202404,2024,Avril,4,Haut-Katanga,Lubumbashi,Rwashi,CS Rwashi,1,0,0
+202404,2024,Avril,4,Haut-Katanga,Kipushi,Kipushi Centre,CS Kipushi Centre,1,1,1
+202404,2024,Avril,4,Haut-Katanga,Kipushi,Kasaka,CS Kasaka,1,1,1
+202404,2024,Avril,4,Haut-Katanga,Kipushi,Shituru,CS Shituru,1,1,1
+202404,2024,Avril,4,Kasaï Central,Kananga,Kananga Ville,CS Kananga Ville,1,1,0
+202404,2024,Avril,4,Kasaï Central,Kananga,Ndolo,CS Ndolo,1,1,1
+202404,2024,Avril,4,Kasaï Central,Kananga,Lupatapata,CS Lupatapata,1,1,1
+202404,2024,Avril,4,Kasaï Central,Dibaya,Dibaya Centre,CS Dibaya Centre,1,1,1
+202404,2024,Avril,4,Kasaï Central,Dibaya,Kalamba,CS Kalamba,1,1,1
+202404,2024,Avril,4,Kasaï Central,Dibaya,Kazumba,CS Kazumba,1,1,1
+202404,2024,Avril,4,Ituri,Bunia,Bunia Mairie,CS Bunia Mairie,1,1,1
+202404,2024,Avril,4,Ituri,Bunia,Soya,CS Soya,1,1,1
+202404,2024,Avril,4,Ituri,Bunia,Lolwa,CS Lolwa,1,1,1
+202404,2024,Avril,4,Ituri,Mambasa,Mambasa Centre,CS Mambasa Centre,1,1,1
+202404,2024,Avril,4,Ituri,Mambasa,Bakwali,CS Bakwali,1,1,1
+202404,2024,Avril,4,Ituri,Mambasa,Bafwanka,CS Bafwanka,1,1,1
+202405,2024,Mai,5,Kinshasa,Limmété,Kinkole,CS Kinkole,1,1,1
+202405,2024,Mai,5,Kinshasa,Limmété,Kinsuka,CS Kinsuka,1,1,1
+202405,2024,Mai,5,Kinshasa,Limmété,Ngaliema,CS Ngaliema,1,1,1
+202405,2024,Mai,5,Kinshasa,Bandalungwa,Bandal-Selé,CS Bandal,1,1,1
+202405,2024,Mai,5,Kinshasa,Bandalungwa,Funa,CS Funa,1,1,1
+202405,2024,Mai,5,Kinshasa,Bandalungwa,Kauka,CS Kauka,1,1,1
+202405,2024,Mai,5,Haut-Katanga,Lubumbashi,Kampemba,CS Kampemba,1,1,1
+202405,2024,Mai,5,Haut-Katanga,Lubumbashi,Kenya,CS Kenya,1,1,1
+202405,2024,Mai,5,Haut-Katanga,Lubumbashi,Rwashi,CS Rwashi,1,1,1
+202405,2024,Mai,5,Haut-Katanga,Kipushi,Kipushi Centre,CS Kipushi Centre,1,0,0
+202405,2024,Mai,5,Haut-Katanga,Kipushi,Kasaka,CS Kasaka,1,1,1
+202405,2024,Mai,5,Haut-Katanga,Kipushi,Shituru,CS Shituru,1,1,1
+202405,2024,Mai,5,Kasaï Central,Kananga,Kananga Ville,CS Kananga Ville,1,1,1
+202405,2024,Mai,5,Kasaï Central,Kananga,Ndolo,CS Ndolo,1,1,0
+202405,2024,Mai,5,Kasaï Central,Kananga,Lupatapata,CS Lupatapata,1,1,1
+202405,2024,Mai,5,Kasaï Central,Dibaya,Dibaya Centre,CS Dibaya Centre,1,1,1
+202405,2024,Mai,5,Kasaï Central,Dibaya,Kalamba,CS Kalamba,1,1,1
+202405,2024,Mai,5,Kasaï Central,Dibaya,Kazumba,CS Kazumba,1,1,1
+202405,2024,Mai,5,Ituri,Bunia,Bunia Mairie,CS Bunia Mairie,1,1,1
+202405,2024,Mai,5,Ituri,Bunia,Soya,CS Soya,1,1,1
+202405,2024,Mai,5,Ituri,Bunia,Lolwa,CS Lolwa,1,1,1
+202405,2024,Mai,5,Ituri,Mambasa,Mambasa Centre,CS Mambasa Centre,1,1,1
+202405,2024,Mai,5,Ituri,Mambasa,Bakwali,CS Bakwali,1,1,1
+202405,2024,Mai,5,Ituri,Mambasa,Bafwanka,CS Bafwanka,1,1,0
+202406,2024,Juin,6,Kinshasa,Limmété,Kinkole,CS Kinkole,1,1,1
+202406,2024,Juin,6,Kinshasa,Limmété,Kinsuka,CS Kinsuka,1,1,1
+202406,2024,Juin,6,Kinshasa,Limmété,Ngaliema,CS Ngaliema,1,1,1
+202406,2024,Juin,6,Kinshasa,Bandalungwa,Bandal-Selé,CS Bandal,1,1,1
+202406,2024,Juin,6,Kinshasa,Bandalungwa,Funa,CS Funa,1,0,0
+202406,2024,Juin,6,Kinshasa,Bandalungwa,Kauka,CS Kauka,1,1,1
+202406,2024,Juin,6,Haut-Katanga,Lubumbashi,Kampemba,CS Kampemba,1,1,1
+202406,2024,Juin,6,Haut-Katanga,Lubumbashi,Kenya,CS Kenya,1,1,1
+202406,2024,Juin,6,Haut-Katanga,Lubumbashi,Rwashi,CS Rwashi,1,1,1
+202406,2024,Juin,6,Haut-Katanga,Kipushi,Kipushi Centre,CS Kipushi Centre,1,1,1
+202406,2024,Juin,6,Haut-Katanga,Kipushi,Kasaka,CS Kasaka,1,1,1
+202406,2024,Juin,6,Haut-Katanga,Kipushi,Shituru,CS Shituru,1,1,0
+202406,2024,Juin,6,Kasaï Central,Kananga,Kananga Ville,CS Kananga Ville,1,1,1
+202406,2024,Juin,6,Kasaï Central,Kananga,Ndolo,CS Ndolo,1,0,0
+202406,2024,Juin,6,Kasaï Central,Kananga,Lupatapata,CS Lupatapata,1,1,1
+202406,2024,Juin,6,Kasaï Central,Dibaya,Dibaya Centre,CS Dibaya Centre,1,0,0
+202406,2024,Juin,6,Kasaï Central,Dibaya,Kalamba,CS Kalamba,1,1,1
+202406,2024,Juin,6,Kasaï Central,Dibaya,Kazumba,CS Kazumba,1,1,1
+202406,2024,Juin,6,Ituri,Bunia,Bunia Mairie,CS Bunia Mairie,1,1,1
+202406,2024,Juin,6,Ituri,Bunia,Soya,CS Soya,1,1,1
+202406,2024,Juin,6,Ituri,Bunia,Lolwa,CS Lolwa,1,1,1
+202406,2024,Juin,6,Ituri,Mambasa,Mambasa Centre,CS Mambasa Centre,1,0,0
+202406,2024,Juin,6,Ituri,Mambasa,Bakwali,CS Bakwali,1,1,1
+202406,2024,Juin,6,Ituri,Mambasa,Bafwanka,CS Bafwanka,1,1,1
+202407,2024,Juillet,7,Kinshasa,Limmété,Kinkole,CS Kinkole,1,1,1
+202407,2024,Juillet,7,Kinshasa,Limmété,Kinsuka,CS Kinsuka,1,1,1
+202407,2024,Juillet,7,Kinshasa,Limmété,Ngaliema,CS Ngaliema,1,1,1
+202407,2024,Juillet,7,Kinshasa,Bandalungwa,Bandal-Selé,CS Bandal,1,1,0
+202407,2024,Juillet,7,Kinshasa,Bandalungwa,Funa,CS Funa,1,1,1
+202407,2024,Juillet,7,Kinshasa,Bandalungwa,Kauka,CS Kauka,1,1,1
+202407,2024,Juillet,7,Haut-Katanga,Lubumbashi,Kampemba,CS Kampemba,1,1,1
+202407,2024,Juillet,7,Haut-Katanga,Lubumbashi,Kenya,CS Kenya,1,1,1
+202407,2024,Juillet,7,Haut-Katanga,Lubumbashi,Rwashi,CS Rwashi,1,1,1
+202407,2024,Juillet,7,Haut-Katanga,Kipushi,Kipushi Centre,CS Kipushi Centre,1,1,1
+202407,2024,Juillet,7,Haut-Katanga,Kipushi,Kasaka,CS Kasaka,1,1,1
+202407,2024,Juillet,7,Haut-Katanga,Kipushi,Shituru,CS Shituru,1,1,1
+202407,2024,Juillet,7,Kasaï Central,Kananga,Kananga Ville,CS Kananga Ville,1,1,1
+202407,2024,Juillet,7,Kasaï Central,Kananga,Ndolo,CS Ndolo,1,1,1
+202407,2024,Juillet,7,Kasaï Central,Kananga,Lupatapata,CS Lupatapata,1,1,1
+202407,2024,Juillet,7,Kasaï Central,Dibaya,Dibaya Centre,CS Dibaya Centre,1,1,1
+202407,2024,Juillet,7,Kasaï Central,Dibaya,Kalamba,CS Kalamba,1,1,1
+202407,2024,Juillet,7,Kasaï Central,Dibaya,Kazumba,CS Kazumba,1,1,1
+202407,2024,Juillet,7,Ituri,Bunia,Bunia Mairie,CS Bunia Mairie,1,1,1
+202407,2024,Juillet,7,Ituri,Bunia,Soya,CS Soya,1,1,1
+202407,2024,Juillet,7,Ituri,Bunia,Lolwa,CS Lolwa,1,1,1
+202407,2024,Juillet,7,Ituri,Mambasa,Mambasa Centre,CS Mambasa Centre,1,1,1
+202407,2024,Juillet,7,Ituri,Mambasa,Bakwali,CS Bakwali,1,1,1
+202407,2024,Juillet,7,Ituri,Mambasa,Bafwanka,CS Bafwanka,1,1,1
+202408,2024,Août,8,Kinshasa,Limmété,Kinkole,CS Kinkole,1,1,1
+202408,2024,Août,8,Kinshasa,Limmété,Kinsuka,CS Kinsuka,1,1,0
+202408,2024,Août,8,Kinshasa,Limmété,Ngaliema,CS Ngaliema,1,1,1
+202408,2024,Août,8,Kinshasa,Bandalungwa,Bandal-Selé,CS Bandal,1,1,1
+202408,2024,Août,8,Kinshasa,Bandalungwa,Funa,CS Funa,1,1,1
+202408,2024,Août,8,Kinshasa,Bandalungwa,Kauka,CS Kauka,1,1,1
+202408,2024,Août,8,Haut-Katanga,Lubumbashi,Kampemba,CS Kampemba,1,1,0
+202408,2024,Août,8,Haut-Katanga,Lubumbashi,Kenya,CS Kenya,1,1,1
+202408,2024,Août,8,Haut-Katanga,Lubumbashi,Rwashi,CS Rwashi,1,1,0
+202408,2024,Août,8,Haut-Katanga,Kipushi,Kipushi Centre,CS Kipushi Centre,1,1,1
+202408,2024,Août,8,Haut-Katanga,Kipushi,Kasaka,CS Kasaka,1,1,1
+202408,2024,Août,8,Haut-Katanga,Kipushi,Shituru,CS Shituru,1,0,0
+202408,2024,Août,8,Kasaï Central,Kananga,Kananga Ville,CS Kananga Ville,1,1,1
+202408,2024,Août,8,Kasaï Central,Kananga,Ndolo,CS Ndolo,1,1,1
+202408,2024,Août,8,Kasaï Central,Kananga,Lupatapata,CS Lupatapata,1,1,1
+202408,2024,Août,8,Kasaï Central,Dibaya,Dibaya Centre,CS Dibaya Centre,1,1,1
+202408,2024,Août,8,Kasaï Central,Dibaya,Kalamba,CS Kalamba,1,1,1
+202408,2024,Août,8,Kasaï Central,Dibaya,Kazumba,CS Kazumba,1,1,1
+202408,2024,Août,8,Ituri,Bunia,Bunia Mairie,CS Bunia Mairie,1,1,1
+202408,2024,Août,8,Ituri,Bunia,Soya,CS Soya,1,1,1
+202408,2024,Août,8,Ituri,Bunia,Lolwa,CS Lolwa,1,1,0
+202408,2024,Août,8,Ituri,Mambasa,Mambasa Centre,CS Mambasa Centre,1,1,1
+202408,2024,Août,8,Ituri,Mambasa,Bakwali,CS Bakwali,1,1,1
+202408,2024,Août,8,Ituri,Mambasa,Bafwanka,CS Bafwanka,1,1,1
+202409,2024,Septembre,9,Kinshasa,Limmété,Kinkole,CS Kinkole,1,1,1
+202409,2024,Septembre,9,Kinshasa,Limmété,Kinsuka,CS Kinsuka,1,1,1
+202409,2024,Septembre,9,Kinshasa,Limmété,Ngaliema,CS Ngaliema,1,1,1
+202409,2024,Septembre,9,Kinshasa,Bandalungwa,Bandal-Selé,CS Bandal,1,1,1
+202409,2024,Septembre,9,Kinshasa,Bandalungwa,Funa,CS Funa,1,1,1
+202409,2024,Septembre,9,Kinshasa,Bandalungwa,Kauka,CS Kauka,1,1,1
+202409,2024,Septembre,9,Haut-Katanga,Lubumbashi,Kampemba,CS Kampemba,1,1,1
+202409,2024,Septembre,9,Haut-Katanga,Lubumbashi,Kenya,CS Kenya,1,1,1
+202409,2024,Septembre,9,Haut-Katanga,Lubumbashi,Rwashi,CS Rwashi,1,1,1
+202409,2024,Septembre,9,Haut-Katanga,Kipushi,Kipushi Centre,CS Kipushi Centre,1,1,1
+202409,2024,Septembre,9,Haut-Katanga,Kipushi,Kasaka,CS Kasaka,1,1,1
+202409,2024,Septembre,9,Haut-Katanga,Kipushi,Shituru,CS Shituru,1,1,1
+202409,2024,Septembre,9,Kasaï Central,Kananga,Kananga Ville,CS Kananga Ville,1,1,1
+202409,2024,Septembre,9,Kasaï Central,Kananga,Ndolo,CS Ndolo,1,1,0
+202409,2024,Septembre,9,Kasaï Central,Kananga,Lupatapata,CS Lupatapata,1,1,1
+202409,2024,Septembre,9,Kasaï Central,Dibaya,Dibaya Centre,CS Dibaya Centre,1,1,1
+202409,2024,Septembre,9,Kasaï Central,Dibaya,Kalamba,CS Kalamba,1,1,1
+202409,2024,Septembre,9,Kasaï Central,Dibaya,Kazumba,CS Kazumba,1,1,1
+202409,2024,Septembre,9,Ituri,Bunia,Bunia Mairie,CS Bunia Mairie,1,0,0
+202409,2024,Septembre,9,Ituri,Bunia,Soya,CS Soya,1,1,1
+202409,2024,Septembre,9,Ituri,Bunia,Lolwa,CS Lolwa,1,1,1
+202409,2024,Septembre,9,Ituri,Mambasa,Mambasa Centre,CS Mambasa Centre,1,1,1
+202409,2024,Septembre,9,Ituri,Mambasa,Bakwali,CS Bakwali,1,1,1
+202409,2024,Septembre,9,Ituri,Mambasa,Bafwanka,CS Bafwanka,1,1,1
+202410,2024,Octobre,10,Kinshasa,Limmété,Kinkole,CS Kinkole,1,1,1
+202410,2024,Octobre,10,Kinshasa,Limmété,Kinsuka,CS Kinsuka,1,1,1
+202410,2024,Octobre,10,Kinshasa,Limmété,Ngaliema,CS Ngaliema,1,1,1
+202410,2024,Octobre,10,Kinshasa,Bandalungwa,Bandal-Selé,CS Bandal,1,1,1
+202410,2024,Octobre,10,Kinshasa,Bandalungwa,Funa,CS Funa,1,1,1
+202410,2024,Octobre,10,Kinshasa,Bandalungwa,Kauka,CS Kauka,1,1,1
+202410,2024,Octobre,10,Haut-Katanga,Lubumbashi,Kampemba,CS Kampemba,1,1,1
+202410,2024,Octobre,10,Haut-Katanga,Lubumbashi,Kenya,CS Kenya,1,1,1
+202410,2024,Octobre,10,Haut-Katanga,Lubumbashi,Rwashi,CS Rwashi,1,1,1
+202410,2024,Octobre,10,Haut-Katanga,Kipushi,Kipushi Centre,CS Kipushi Centre,1,1,1
+202410,2024,Octobre,10,Haut-Katanga,Kipushi,Kasaka,CS Kasaka,1,1,1
+202410,2024,Octobre,10,Haut-Katanga,Kipushi,Shituru,CS Shituru,1,1,1
+202410,2024,Octobre,10,Kasaï Central,Kananga,Kananga Ville,CS Kananga Ville,1,0,0
+202410,2024,Octobre,10,Kasaï Central,Kananga,Ndolo,CS Ndolo,1,1,1
+202410,2024,Octobre,10,Kasaï Central,Kananga,Lupatapata,CS Lupatapata,1,1,1
+202410,2024,Octobre,10,Kasaï Central,Dibaya,Dibaya Centre,CS Dibaya Centre,1,1,1
+202410,2024,Octobre,10,Kasaï Central,Dibaya,Kalamba,CS Kalamba,1,1,1
+202410,2024,Octobre,10,Kasaï Central,Dibaya,Kazumba,CS Kazumba,1,1,1
+202410,2024,Octobre,10,Ituri,Bunia,Bunia Mairie,CS Bunia Mairie,1,1,1
+202410,2024,Octobre,10,Ituri,Bunia,Soya,CS Soya,1,1,1
+202410,2024,Octobre,10,Ituri,Bunia,Lolwa,CS Lolwa,1,1,1
+202410,2024,Octobre,10,Ituri,Mambasa,Mambasa Centre,CS Mambasa Centre,1,1,1
+202410,2024,Octobre,10,Ituri,Mambasa,Bakwali,CS Bakwali,1,1,0
+202410,2024,Octobre,10,Ituri,Mambasa,Bafwanka,CS Bafwanka,1,1,1
+202411,2024,Novembre,11,Kinshasa,Limmété,Kinkole,CS Kinkole,1,1,1
+202411,2024,Novembre,11,Kinshasa,Limmété,Kinsuka,CS Kinsuka,1,0,0
+202411,2024,Novembre,11,Kinshasa,Limmété,Ngaliema,CS Ngaliema,1,1,1
+202411,2024,Novembre,11,Kinshasa,Bandalungwa,Bandal-Selé,CS Bandal,1,0,0
+202411,2024,Novembre,11,Kinshasa,Bandalungwa,Funa,CS Funa,1,1,1
+202411,2024,Novembre,11,Kinshasa,Bandalungwa,Kauka,CS Kauka,1,1,1
+202411,2024,Novembre,11,Haut-Katanga,Lubumbashi,Kampemba,CS Kampemba,1,1,1
+202411,2024,Novembre,11,Haut-Katanga,Lubumbashi,Kenya,CS Kenya,1,1,1
+202411,2024,Novembre,11,Haut-Katanga,Lubumbashi,Rwashi,CS Rwashi,1,1,1
+202411,2024,Novembre,11,Haut-Katanga,Kipushi,Kipushi Centre,CS Kipushi Centre,1,1,1
+202411,2024,Novembre,11,Haut-Katanga,Kipushi,Kasaka,CS Kasaka,1,1,1
+202411,2024,Novembre,11,Haut-Katanga,Kipushi,Shituru,CS Shituru,1,1,1
+202411,2024,Novembre,11,Kasaï Central,Kananga,Kananga Ville,CS Kananga Ville,1,1,1
+202411,2024,Novembre,11,Kasaï Central,Kananga,Ndolo,CS Ndolo,1,1,1
+202411,2024,Novembre,11,Kasaï Central,Kananga,Lupatapata,CS Lupatapata,1,1,1
+202411,2024,Novembre,11,Kasaï Central,Dibaya,Dibaya Centre,CS Dibaya Centre,1,1,1
+202411,2024,Novembre,11,Kasaï Central,Dibaya,Kalamba,CS Kalamba,1,1,1
+202411,2024,Novembre,11,Kasaï Central,Dibaya,Kazumba,CS Kazumba,1,1,1
+202411,2024,Novembre,11,Ituri,Bunia,Bunia Mairie,CS Bunia Mairie,1,1,1
+202411,2024,Novembre,11,Ituri,Bunia,Soya,CS Soya,1,0,0
+202411,2024,Novembre,11,Ituri,Bunia,Lolwa,CS Lolwa,1,1,1
+202411,2024,Novembre,11,Ituri,Mambasa,Mambasa Centre,CS Mambasa Centre,1,1,1
+202411,2024,Novembre,11,Ituri,Mambasa,Bakwali,CS Bakwali,1,1,1
+202411,2024,Novembre,11,Ituri,Mambasa,Bafwanka,CS Bafwanka,1,1,1
+202412,2024,Décembre,12,Kinshasa,Limmété,Kinkole,CS Kinkole,1,1,1
+202412,2024,Décembre,12,Kinshasa,Limmété,Kinsuka,CS Kinsuka,1,1,1
+202412,2024,Décembre,12,Kinshasa,Limmété,Ngaliema,CS Ngaliema,1,1,1
+202412,2024,Décembre,12,Kinshasa,Bandalungwa,Bandal-Selé,CS Bandal,1,1,1
+202412,2024,Décembre,12,Kinshasa,Bandalungwa,Funa,CS Funa,1,1,1
+202412,2024,Décembre,12,Kinshasa,Bandalungwa,Kauka,CS Kauka,1,1,1
+202412,2024,Décembre,12,Haut-Katanga,Lubumbashi,Kampemba,CS Kampemba,1,1,1
+202412,2024,Décembre,12,Haut-Katanga,Lubumbashi,Kenya,CS Kenya,1,1,1
+202412,2024,Décembre,12,Haut-Katanga,Lubumbashi,Rwashi,CS Rwashi,1,1,1
+202412,2024,Décembre,12,Haut-Katanga,Kipushi,Kipushi Centre,CS Kipushi Centre,1,1,1
+202412,2024,Décembre,12,Haut-Katanga,Kipushi,Kasaka,CS Kasaka,1,1,1
+202412,2024,Décembre,12,Haut-Katanga,Kipushi,Shituru,CS Shituru,1,1,0
+202412,2024,Décembre,12,Kasaï Central,Kananga,Kananga Ville,CS Kananga Ville,1,1,1
+202412,2024,Décembre,12,Kasaï Central,Kananga,Ndolo,CS Ndolo,1,1,1
+202412,2024,Décembre,12,Kasaï Central,Kananga,Lupatapata,CS Lupatapata,1,1,1
+202412,2024,Décembre,12,Kasaï Central,Dibaya,Dibaya Centre,CS Dibaya Centre,1,0,0
+202412,2024,Décembre,12,Kasaï Central,Dibaya,Kalamba,CS Kalamba,1,1,0
+202412,2024,Décembre,12,Kasaï Central,Dibaya,Kazumba,CS Kazumba,1,1,1
+202412,2024,Décembre,12,Ituri,Bunia,Bunia Mairie,CS Bunia Mairie,1,1,1
+202412,2024,Décembre,12,Ituri,Bunia,Soya,CS Soya,1,1,1
+202412,2024,Décembre,12,Ituri,Bunia,Lolwa,CS Lolwa,1,1,1
+202412,2024,Décembre,12,Ituri,Mambasa,Mambasa Centre,CS Mambasa Centre,1,1,1
+202412,2024,Décembre,12,Ituri,Mambasa,Bakwali,CS Bakwali,1,1,1
+202412,2024,Décembre,12,Ituri,Mambasa,Bafwanka,CS Bafwanka,1,1,1

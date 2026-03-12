@@ -1,0 +1,35 @@
+services:
+  postgres-pev:
+    image: postgres:15-alpine
+    container_name: pev-postgres
+    environment:
+      POSTGRES_DB: pev_rdc
+      POSTGRES_USER: pev_admin
+      POSTGRES_PASSWORD: P@ssw0rdPEV2024
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./init-scripts:/docker-entrypoint-initdb.d
+    networks:
+      - pev-network
+
+  pgadmin:
+    image: dpage/pgadmin4:latest
+    container_name: pev-pgadmin
+    environment:
+      PGADMIN_DEFAULT_EMAIL: admin@pev.rdc
+      PGADMIN_DEFAULT_PASSWORD: admin123
+    ports:
+      - "5050:80"
+    depends_on:
+      - postgres-pev
+    networks:
+      - pev-network
+
+volumes:
+  postgres_data:
+
+networks:
+  pev-network:
+    driver: bridge

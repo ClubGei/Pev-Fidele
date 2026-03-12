@@ -1,0 +1,13 @@
+﻿Antigene,DoseNum,TypeVaccin,GroupeAge
+BCG,0,BCG,À la naissance
+Polio0,0,VPO,À la naissance
+Penta1,1,Penta,0-11 mois
+Penta2,2,Penta,0-11 mois
+Penta3,3,Penta,0-11 mois
+RR1,1,Rougeole,9-59 mois
+RR2,2,Rougeole,15-59 mois
+VAR,1,Varicelle,12-59 mois
+VAA,1,Vitamine A,6-59 mois
+VPI1,1,VPI,0-11 mois
+VPI2,2,VPI,0-11 mois
+VPI3,3,VPI,0-11 mois
